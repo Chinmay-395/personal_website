@@ -1,7 +1,7 @@
 ---
 date: '2021-03-14'
 title: 'Associate Software Engineer'
-company: 'LTIMindtree'
+company: 'LTI-Mindtree'
 location: 'Mumbai, India'
 range: 'March 2021 - August 2022'
 url: 'https://www.upstatement.com/'
