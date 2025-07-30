@@ -65,12 +65,12 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://www.corebridgefinancial.com/" target="_blank" rel="noreferrer">
+        I’m a software engineer who specializes in backend systems and software optimization, with
+        over three years of total professional experience.
+        {/* {' '} */}
+        {/* <a href="https://www.corebridgefinancial.com/" target="_blank" rel="noreferrer">
           Corebridge Financials
-        </a>
+        </a> */}
         .
       </p>
     </>
