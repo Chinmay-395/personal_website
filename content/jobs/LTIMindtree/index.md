@@ -1,9 +1,9 @@
 ---
-date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
+date: '2021-03-14'
+title: 'Associate Software Engineer'
+company: 'LTIMindtree'
+location: 'Mumbai, India'
+range: 'March 2021 - August 2022'
 url: 'https://www.upstatement.com/'
 ---
 
