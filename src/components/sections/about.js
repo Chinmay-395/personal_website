@@ -162,9 +162,9 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">Corebridge Financials</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">LTI-Mindtree</a>. My main focus these
-              days is getting into Compiler research and going back to academia.
+              <a href="https://www.corebridgefinancial.com/">Corebridge Financials</a>, and{' '}
+              <a href="https://www.ltimindtree.com/">LTI-Mindtree</a>. My main focus these days is
+              getting into Compiler research and going back to academia.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
