@@ -65,13 +65,16 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer who specializes in backend systems and software optimization, with
-        over three years of total professional experience.
+        I’m a software engineer specializing in creating robust, user-focused digital solutions.
+        With a strong foundation in backend and frontend development, I have a track record of
+        delivering secure, scalable applications that enhance user engagement and streamline
+        workflows. Currently, I’m focused on building accessible, high-performance products, using
+        my skills in Java, Spring Boot, React, Node.js, TypeScript, and AWS to meet modern
+        development challenges.
         {/* {' '} */}
         {/* <a href="https://www.corebridgefinancial.com/" target="_blank" rel="noreferrer">
           Corebridge Financials
         </a> */}
-        .
       </p>
     </>
   );
