@@ -1,14 +1,12 @@
 ---
-date: '2017-11-01'
-title: 'Apple Music Facebook Messenger Integration'
-github: ''
-external: 'https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming'
+date: '2024-03-09'
+title: 'Go Cache (Redis Clone)'
+github: 'https://github.com/Chinmay-395/redis-clone'
+external: ''
 tech:
-  - Ember
-  - JS
-  - SCSS
-company: 'Apple'
+  - Golang
+company: ''
 showInProjects: true
 ---
 
-Facebook Messenger chat bot extension featuring authentication and full song streaming from within the Messenger app. Read more about it on [The Verge](https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming).
+A Redis clone implementation written in Go that replicates the core functionality of Redis in-memory data structure store. Features key-value storage, command processing, and compatibility with redis-cli for testing. Easy setup - just run the Go server and connect via standard Redis client tools.

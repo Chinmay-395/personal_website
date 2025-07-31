@@ -1,14 +1,12 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+date: '2021-03-04'
+title: 'Video Conference App'
+github: 'https://github.com/Chinmay-395/Video_conference_app'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - Javascript
+  - Nodejs
+  - socketio
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Node.js handles signaling via Socket.IO, React.js manages UI and video streams, WebRTC enables direct browser-to-browser connections. Server only facilitates initial handshake, then participants communicate directly. Reduces latency, cuts server costs, improves privacy.
