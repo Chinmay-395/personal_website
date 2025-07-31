@@ -1,15 +1,12 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Tiny Chat App'
+cover: './chat_example.png'
+github: 'https://github.com/Chinmay-395/CS511-Concurrent-Programming/tree/deploy'
+external: 'https://github.com/Chinmay-395/CS511-Concurrent-Programming/tree/deploy'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Erlang
+  - Groovy
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+TinyChat is a lightweight, highly concurrent chat application developed in Erlang, showcasing the language's powerful capabilities for building scalable, real-time messaging systems. This project demonstrates Erlang's process model, message passing, and fault tolerance features, making it an excellent portfolio piece for those interested in distributed systems and functional programming.
