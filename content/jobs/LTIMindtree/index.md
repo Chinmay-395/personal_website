@@ -7,7 +7,7 @@ range: 'March 2021 - August 2022'
 url: 'https://www.upstatement.com/'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Enhanced application performance by 20% using server-side caching with Spring Cache, ensuring over 99% uptime. Developed REST APIs for audits, optimizing data access and processing, significantly improving application responsiveness and efficiency.
+- Designed dynamic, user-friendly front-end using React.js, Redux, TypeScript, D3.js, and Chart.js. Introduced real-time dashboards, increasing user engagement by 20% through interactive visualizations and seamless user experiences for data-driven insights.
+- Improved database querying by 25% using Spring Data JPA and JPQL for advanced querying, reducing execution time. Optimized database interactions, leading to faster and more efficient data retrieval and improved system performance.
+- Leveraged AWS Lambda, S3, DynamoDB, and RDS to reduce infrastructure costs by 25%, while enhancing scalability. Streamlined ETL operations with AWS Glue, boosting data processing efficiency and enabling more cost-effective cloud infrastructure management.
